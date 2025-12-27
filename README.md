@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/profile.jpg"
+  <img src="https://kitsonmorag.github.io/assets/images/shakti%20prasad.jpg"
        width="190"
        alt="Shakti Prasad Mahapatro"
        style="border-radius:50%; border:3px solid #0ff;" />
