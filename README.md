@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kitsonmorag.github.io/assets/images/shakti%20prasad.jpg"
+  <img src="https://www.rawpixel.com/image/15450536/png-hacker-hoodie-laptop-computer"
        width="190"
        alt="Shakti Prasad Mahapatro"
        style="border-radius:50%; border:3px solid #0ff;" />
