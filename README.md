@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://www.rawpixel.com/image/15450536/png-hacker-hoodie-laptop-computer"
-       width="190"
-       alt="Shakti Prasad Mahapatro"
-       style="border-radius:50%; border:3px solid #0ff;" />
-</p>
 
 <h1 align="center">🔐 Shakti Prasad Mahapatro</h1>
 <h3 align="center">Cybersecurity & SOC Analyst | Threat Hunter | Ethical Hacker</h3>
